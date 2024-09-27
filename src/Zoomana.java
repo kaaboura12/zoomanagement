@@ -19,5 +19,13 @@ public class Zoomana {
         int nbrcages = scanner.nextInt();
 
         System.out.println(zooname + " comporte " + nbrcages + " cages");
+
+        Animal lion = new Animal("thadiyet", "Lion", 5, true);
+
+        Zoo myZoo = new Zoo("belvedere", "pasage", 10);
+        System.out.println(myZoo);
+        System.out.println(lion);
+        //lion.display_animal();
+        System.out.println("Détails du zoo : " + myZoo.city+"/"+myZoo.name+"/"+myZoo.nbrCages);
     }
 }
