@@ -21,11 +21,22 @@ public class Zoomana {
         System.out.println(zooname + " comporte " + nbrcages + " cages");
 
         Animal lion = new Animal("thadiyet", "Lion", 5, true);
+        Animal tiger = new Animal("thadiyet", "tiger", 7, true);
+        Animal tiger2 = new Animal("thadiyet", "tiger22", 15, true);
 
-        Zoo myZoo = new Zoo("belvedere", "pasage", 10);
+        Zoo myZoo = new Zoo("belvedere", "pasage");
         System.out.println(myZoo);
         System.out.println(lion);
         //lion.display_animal();
         System.out.println("Détails du zoo : " + myZoo.city+"/"+myZoo.name+"/"+myZoo.nbrCages);
+
+        myZoo.addAnimal(lion);
+        myZoo.addAnimal(tiger);
+        myZoo.addAnimal(tiger2);
+
+        myZoo.displayanimals();
+
+        System.out.println(myZoo.searchAnimal(tiger2));
+
     }
 }
