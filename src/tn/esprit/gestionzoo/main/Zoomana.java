@@ -1,7 +1,6 @@
 package tn.esprit.gestionzoo.main;
 
-import tn.esprit.gestionzoo.entities.Zoo;
-import tn.esprit.gestionzoo.entities.Animal;
+import tn.esprit.gestionzoo.entities.*;
 
 import java.util.Scanner;
 
@@ -9,7 +8,7 @@ public class Zoomana {
 
     public static void main(String[] args) {
         //creation de deux instances myzoo et lion et autre instance
-        Zoo myzoo=new Zoo("bilvedere","tunis");
+        /*Zoo myzoo=new Zoo("bilvedere","tunis");
         Animal lion=new Animal("thediyet","lion",12,true);
         Animal tiger=new Animal("tiger","tiger",14,true);
         Animal dog=new Animal("dog","dog",15,false);
@@ -30,7 +29,20 @@ public class Zoomana {
         System.out.println(myzoo.searchAnimal(dog));
         System.out.println(myzoo.searchAnimal(cat));
         System.out.println(myzoo.searchAnimal(tiger));
-
+*/
+        Animal animal = new Animal();
+        Aquatic aquatic = new Aquatic();
+        Terrestrial terrestrial = new Terrestrial();
+        Dolphin dolphin = new Dolphin();
+        Penguin penguin = new Penguin();
+        System.out.println(animal);
+        System.out.println(aquatic);
+        System.out.println(terrestrial);
+        System.out.println(dolphin);
+        System.out.println(penguin);
+        aquatic.swim();
+        dolphin.swim();
+        penguin.swim();
 
 
     }

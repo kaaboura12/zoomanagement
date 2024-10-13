@@ -8,7 +8,7 @@ public class Zoo {
     private String city;
     public final int nbrCages=25;
 
-//constructeur pour tn.esprit.gestionzoo.entities.Zoo
+//constructeur pour Zoo
 
     public Zoo(String name, String city) {
         animals = new Animal[this.nbrCages];
