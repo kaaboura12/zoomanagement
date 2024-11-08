@@ -167,11 +167,11 @@ public class Zoo {
        nbrAqua++;
     }
 
-    public void methodeswim(){
+    /*public void methodeswim(){
         for(Aquatic aquatic : aquaticanimals){
             aquatic.swim();
         }
-    }
+    }*/
 
     public float maxPenguinSwimmingDepth() {
         float maxDepth = -1; // Valeur par défaut si aucun pingouin n'est trouvé
