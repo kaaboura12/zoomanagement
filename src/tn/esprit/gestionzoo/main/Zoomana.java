@@ -6,13 +6,13 @@ import java.util.Scanner;
 
 public class Zoomana {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ZooFullException, InvalidAgeException {
         //creation de deux instances myzoo et lion et autre instance
         Zoo myzoo=new Zoo("bilvedere","tunis");
-        /*Animal lion=new Animal("thediyet","lion",12,true);
+        Animal lion=new Animal("thediyet","lion",12,true);
         Animal tiger=new Animal("tiger","tiger",14,true);
-        Animal dog=new Animal("dog","dog",15,false);
-        Animal cat=new Animal("cat","cat",16,false);
+        Animal dog=new Animal("dog","dog",-6,false);
+        Animal cat=new Animal("cat","cat",16,false);/*
 //affichage avec tostring
         System.out.println(myzoo);
         System.out.println(lion);
@@ -47,6 +47,16 @@ public class Zoomana {
         float maxDepth = myzoo.maxPenguinSwimmingDepth();
         System.out.println("La profondeur maximale de nage des pingouins dans le zoo est : "+maxDepth );
         myzoo.displayNumberOfAquaticsByType();
+        myzoo.addAnimal(lion);
+        System.out.println("Nombre d'animaux après ajout du dauphin : " + myzoo.getCurrentAnimalCount());
+        myzoo.addAnimal(tiger);
+        System.out.println("Nombre d'animaux après ajout du dauphin : " + myzoo.getCurrentAnimalCount());
+        myzoo.addAnimal(dog);
+        System.out.println("Nombre d'animaux après ajout du dauphin : " + myzoo.getCurrentAnimalCount());
+        myzoo.addAnimal(cat);
+        System.out.println("Nombre d'animaux après ajout du dauphin : " + myzoo.getCurrentAnimalCount());
+
+        myzoo.afficherAnimaux();
 
 
 

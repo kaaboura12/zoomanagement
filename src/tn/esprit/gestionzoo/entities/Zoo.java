@@ -6,9 +6,10 @@ public class Zoo {
     private Animal [] animals;
     private String name;
     private String city;
-    public final int nbrCages=25;
+    public final int nbrCages=3;
     private Aquatic [] aquaticanimals=new Aquatic[10];
     private int nbrAqua;
+    private int currentAnimalCount = 0;
 
 
 //constructeur pour Zoo
@@ -54,8 +55,13 @@ public class Zoo {
         return nbrCages;
     }
 
+    public int getCurrentAnimalCount() {
+        return currentAnimalCount;
+    }
 
-
+    public void setCurrentAnimalCount(int currentAnimalCount) {
+        this.currentAnimalCount = currentAnimalCount;
+    }
 
 //affichage to string!!!
 
@@ -71,15 +77,12 @@ public class Zoo {
 
 //methode ajout animal
 
-    public boolean addAnimal(Animal animal) {
-        for(int i = 0; i < animals.length; i++){
-            if(this.searchAnimal(animal)!=-1&&i<this.nbrCages&&!this.isZoofull()){
-                if(animals[i] == null){
-                    animals[i] = animal;
-                    return true;
-                }}
+    public void addAnimal(Animal animal) throws ZooFullException {
+        if (currentAnimalCount >= nbrCages) {
+            throw new ZooFullException("Le zoo est plein. Impossible d'ajouter un autre animal.");
         }
-        return false;
+        animals[currentAnimalCount] = animal;
+        currentAnimalCount++;
     }
 
 //methode affichage des animaux dans le zoo

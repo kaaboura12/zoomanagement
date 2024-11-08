@@ -10,9 +10,12 @@ public class Animal {
 //construteur avec parametre pour animal
 
 
-    public Animal(String family, String name, int age, boolean isMammal) {
+    public Animal(String family, String name, int age, boolean isMammal) throws InvalidAgeException {
         this.family = family;
         this.name = name;
+        if (age < 0) {
+            throw new InvalidAgeException("L'âge de l'animal ne peut pas être négatif.");
+        }
         this.age = age;
         this.isMammal = isMammal;
     }
