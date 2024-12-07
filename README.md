@@ -6,6 +6,22 @@
 
 ### 
 
+### My Projects (Prosits) 🔥
+
+Here are some of my projects! You can click on each one to explore them:
+
+1. [Prosit 1 - Project 1](https://github.com/kaaboura12/project-1)  
+2. [Prosit 2 - Project 2](https://github.com/kaaboura12/project-2)  
+3. [Prosit 3 - Project 3](https://github.com/kaaboura12/project-3)  
+4. [Prosit 4 - Project 4](https://github.com/kaaboura12/project-4)  
+5. [Prosit 5 - Project 5](https://github.com/kaaboura12/project-5)  
+6. [Prosit 6 - Project 6](https://github.com/kaaboura12/project-6)  
+7. [Prosit 7 - Project 7](https://github.com/kaaboura12/project-7)  
+8. [Prosit 8 - Project 8](https://github.com/kaaboura12/project-8)  
+9. [Prosit 9 - Project 9](https://github.com/kaaboura12/project-9)  
+
+### 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaaboura12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaaboura12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -54,23 +70,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kaaboura12/kaaboura12/output/snake.svg" alt="Snake animation" />
-
-### 
-
-### My Projects (Prosits) 🔥
-
-Here are some of my projects! You can click on each one to explore them:
-
-1. [Prosit 1 - Project 1](https://github.com/kaaboura12/project-1)  
-2. [Prosit 2 - Project 2](https://github.com/kaaboura12/project-2)  
-3. [Prosit 3 - Project 3](https://github.com/kaaboura12/project-3)  
-4. [Prosit 4 - Project 4](https://github.com/kaaboura12/project-4)  
-5. [Prosit 5 - Project 5](https://github.com/kaaboura12/project-5)  
-6. [Prosit 6 - Project 6](https://github.com/kaaboura12/project-6)  
-7. [Prosit 7 - Project 7](https://github.com/kaaboura12/project-7)  
-8. [Prosit 8 - Project 8](https://github.com/kaaboura12/project-8)  
-9. [Prosit 9 - Project 9](https://github.com/kaaboura12/project-9)  
-
----
-
-> Replace the links above (e.g., `https://github.com/kaaboura12/project-1`) with the actual URLs of your repositories.  
