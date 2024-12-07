@@ -1,21 +1,19 @@
 <h3 align="left">Hi 👋! My name is Med Amin Sayari</h3>
-
-### 
 ### 
 
 ### My Projects zoomanagement (Prosits) 🔥
 
-Here are some of my projects! You can click on each one to explore them:
+Here are all the prosists! You can click on each one to explore them:
 
-1. [Prosit 1 - Project 1]([https://github.com/kaaboura12/project-1](https://github.com/kaaboura12/zoomanagement/tree/prosit-2))  
-2. [Prosit 2 - Project 2]([https://github.com/kaaboura12/project-2](https://github.com/kaaboura12/zoomanagement/tree/prosit2))  
+1. [Prosit 1 - Project 1](https://github.com/kaaboura12/zoomanagement/tree/prosit-2)  
+2. [Prosit 2 - Project 2](https://github.com/kaaboura12/project-2)  
 3. [Prosit 3 - Project 3](https://github.com/kaaboura12/project-3)  
 4. [Prosit 4 - Project 4](https://github.com/kaaboura12/project-4)  
 5. [Prosit 5 - Project 5](https://github.com/kaaboura12/project-5)  
 6. [Prosit 6 - Project 6](https://github.com/kaaboura12/project-6)  
 7. [Prosit 7 - Project 7](https://github.com/kaaboura12/project-7)  
 8. [Prosit 8 - Project 8](https://github.com/kaaboura12/project-8)  
-9. [Prosit 9 - Project 9]([https://github.com/kaaboura12/project-9](https://github.com/kaaboura12/zoomanagement/tree/prosit-2))  
+9. [Prosit 9 - Project 9](https://github.com/kaaboura12/project-9)  
 
 ### 
 
