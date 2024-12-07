@@ -9,15 +9,15 @@ I'm a passionate software engineer with experience in a variety of programming l
 
 I am excited to present **Zoomanagement**, a Java-based project designed to streamline the management of Zoom meetings. Below are the different stages (prosits) of the project, each offering unique features:
 
-1. [**Prosit 1 - Initial Setup**](https://github.com/kaaboura12/zoomanagement/tree/prosit-2)  
-2. [**Prosit 2 - User Interface**](https://github.com/kaaboura12/zoomanagement/tree/prosit2)  
-3. [**Prosit 3 - Meeting Scheduling**](https://github.com/kaaboura12/zoomanagement/tree/prosit3)  
-4. [**Prosit 4 - Database Integration**](https://github.com/kaaboura12/zoomanagement/tree/prosit4)  
-5. [**Prosit 5 - Notification System**](https://github.com/kaaboura12/zoomanagement/tree/prosit5)  
-6. [**Prosit 6 - User Authentication**](https://github.com/kaaboura12/zoomanagement/tree/prosit6)  
-7. [**Prosit 7 - Admin Panel**](https://github.com/kaaboura12/zoomanagement/tree/prosit7)  
-8. [**Prosit 8 - Reporting Features**](https://github.com/kaaboura12/zoomanagement/tree/prosit8)  
-9. [**Prosit 9 - Final Integration**](https://github.com/kaaboura12/zoomanagement/tree/prosit8)
+1. [**Prosit 1 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit-2)  
+2. [**Prosit 2 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit2)  
+3. [**Prosit 3 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit3)  
+4. [**Prosit 4 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit4)  
+5. [**Prosit 5 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit5)  
+6. [**Prosit 6 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit6)  
+7. [**Prosit 7 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit7)  
+8. [**Prosit 8 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit8)  
+9. [**Prosit 9 - **](https://github.com/kaaboura12/zoomanagement/tree/prosit8)
 
 ---
 
@@ -80,13 +80,7 @@ You can reach out to me through any of the following platforms:
 
 ---
 
-### 🐍 A Little Fun: Snake Game
 
-Check out my animated snake:
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
----
 
 ### 📅 Let's Keep in Touch
 
@@ -94,6 +88,5 @@ I’m always open to new opportunities and collaborations! Feel free to reach ou
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kaaboura12/kaaboura12/output/snake.svg" alt="Snake animation" />
 
 ---
